@@ -22,3 +22,9 @@ In this Milestone, I created a data model for this Power BI project. A Date tabl
 
 Following this I created measures that will support my analysis encompassing metrics like total orders, revenue, and quarter-based performance indicators. I also established data and geography hierarchies.
 #
+
+## Milestone 4 & 5
+Milestone 4 added new report pages (blank) and a navigation sidebar (also blank).
+Milestone 5 added the Customer Detail Page. In this report page graphs, and tiles were added to display key customer information.  In particular it highlights the top 20 customers, and also the single best customer based on revenue. 
+A date slicer was also added to make date customisation much easier and user friendly.
+#
