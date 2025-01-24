@@ -1,4 +1,3 @@
-
 # Data-Analytics-Power-BI-Report
 
 ## Milestone 2 - Complete
@@ -15,5 +14,11 @@ Regions were inconstantly spelt in the original data set. This was corrected to 
 ### Customers Table
 Customer data was adjusted to combine both first and last names into a single column. Unneeded columns were deleted.
 
-All columns from each table were renamed to align with Power BI naming conventions.
-## 
+All columns from each table were renamed to align with Power BI naming conventions
+#
+
+## Milestone 3 - Complete
+In this Milestone, I created a data model for this Power BI project. A Date table was created to act as a basis for time intelligence in my Data Model. From here, using a star-based schema and one-to-many relationships in a single filter direction, I established relationships between key tables.
+
+Following this I created measures that will support my analysis encompassing metrics like total orders, revenue, and quarter-based performance indicators. I also established data and geography hierarchies.
+#
