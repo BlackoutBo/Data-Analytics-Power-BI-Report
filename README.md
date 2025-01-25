@@ -37,3 +37,13 @@ Milestone 6 added the Executive Summary Page. The purpose of this page is to giv
 * Donut charts showing orders and revenue by country
 * A bar chat of orders by category
 * KPI's for Quarterly Revenue, Customers, and Profit.
+#
+
+## Milestone 7
+Milestone 7 added the Product Details Page. This page allows the company to take an in-depth look at which products in the business inventory are preforming well with the option to filter by product and region. Included in this page:
+
+* Card visuals to show what filters are currently selected
+* Gauge visuals showing how the selected category's revenue, profit, and number of orders are preforming against quarterly targets
+* An area chart showing the relative revenue performance of each category over time.
+* A table showing the top 10 products by revenue in the selected context
+* A scatter graph of quantity ordered against profit per item for products in current context.
