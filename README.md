@@ -28,3 +28,12 @@ Milestone 4 added new report pages (blank) and a navigation sidebar (also blank)
 Milestone 5 added the Customer Detail Page. In this report page graphs, and tiles were added to display key customer information.  In particular it highlights the top 20 customers, and also the single best customer based on revenue. 
 A date slicer was also added to make date customisation much easier and user friendly.
 #
+
+## Milestone 6
+Milestone 6 added the Executive Summary Page. The purpose of this page is to give an overview of the company's performance as a whole. This includes:
+	
+* Card Visuals showing Total Revenue, Total Profits, and Total Orders
+*  A graph of revenue against time
+* Donut charts showing orders and revenue by country
+* A bar chat of orders by category
+* KPI's for Quarterly Revenue, Customers, and Profit.
