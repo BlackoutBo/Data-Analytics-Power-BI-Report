@@ -23,13 +23,13 @@ In this Milestone, I created a data model for this Power BI project. A Date tabl
 Following this I created measures that will support my analysis encompassing metrics like total orders, revenue, and quarter-based performance indicators. I also established data and geography hierarchies.
 #
 
-## Milestone 4 & 5
+## Milestone 4 & 5 - Complete
 Milestone 4 added new report pages (blank) and a navigation sidebar (also blank).
 Milestone 5 added the Customer Detail Page. In this report page graphs, and tiles were added to display key customer information.  In particular it highlights the top 20 customers, and also the single best customer based on revenue. 
 A date slicer was also added to make date customisation much easier and user friendly.
 #
 
-## Milestone 6
+## Milestone 6 - Complete
 Milestone 6 added the Executive Summary Page. The purpose of this page is to give an overview of the company's performance as a whole. This includes:
 	
 * Card Visuals showing Total Revenue, Total Profits, and Total Orders
@@ -39,7 +39,7 @@ Milestone 6 added the Executive Summary Page. The purpose of this page is to giv
 * KPI's for Quarterly Revenue, Customers, and Profit.
 #
 
-## Milestone 7
+## Milestone 7 - Complete
 Milestone 7 added the Product Details Page. This page allows the company to take an in-depth look at which products in the business inventory are preforming well with the option to filter by product and region. Included in this page:
 
 * Card visuals to show what filters are currently selected
@@ -49,9 +49,15 @@ Milestone 7 added the Product Details Page. This page allows the company to take
 * A scatter graph of quantity ordered against profit per item for products in current context.
 #
 
-## Milestone 8
+## Milestone 8 - Complete
 Milestone 8 added a Stores Map Page. This page allows users to see each store on a global map. This enables quick visual inspection of the most profitable stores. 
 The map has Drill Through Page with tiles showing Profit, Revenue, and a table showing top 5 products based on total orders. This allows users to dive deeper into store information quickly.
 
 A Stores Tooltip page was also created to allow spot checking the revenue against target without having to leave the map page.
+#
+
+## Milestone 9 - Complete
+This milestone added some fixes and user interface quality of life improvements. Visuals across the report were updated so that cross-filtering was only applied where needed.
+
+The Navigation bar now has icons that function and allow the user to switch between pages easily.
 #
