@@ -47,3 +47,11 @@ Milestone 7 added the Product Details Page. This page allows the company to take
 * An area chart showing the relative revenue performance of each category over time.
 * A table showing the top 10 products by revenue in the selected context
 * A scatter graph of quantity ordered against profit per item for products in current context.
+#
+
+## Milestone 8
+Milestone 8 added a Stores Map Page. This page allows users to see each store on a global map. This enables quick visual inspection of the most profitable stores. 
+The map has Drill Through Page with tiles showing Profit, Revenue, and a table showing top 5 products based on total orders. This allows users to dive deeper into store information quickly.
+
+A Stores Tooltip page was also created to allow spot checking the revenue against target without having to leave the map page.
+#
