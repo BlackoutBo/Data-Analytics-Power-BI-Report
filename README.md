@@ -61,3 +61,13 @@ This milestone added some fixes and user interface quality of life improvements.
 
 The Navigation bar now has icons that function and allow the user to switch between pages easily.
 #
+
+## Milestone 10 - Complete
+In this milestone, SQL queries were used to answer the following questions:
+1. How many staff are there in all of the UK stores?
+2. Which month in 2022 has had the highest revenue?
+3. Which German store type had the highest revenue for 2022?
+4. Create a view where the rows are the store types and the columns are the total sales, percentage of total sales and the count of orders
+5. Which product category generated the most profit for the "Wiltshire, UK" region in 2021?
+
+The answer to these questions were saved to a .CSV file, along with the query itself as a .SQL file, and upload here. 
